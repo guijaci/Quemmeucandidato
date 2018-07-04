@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Our own backend connection settings -->
+    <string name="backend_scheme">http</string>
+    <string name="backend_host">192.168.1.8:5010</string>
+    <string name="backend_path"></string>
+</resources>
